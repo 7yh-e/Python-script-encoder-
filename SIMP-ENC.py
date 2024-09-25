@@ -17,7 +17,7 @@ EHRA = render('ENC', colors=['white', 'cyan'], align='center')
 print(EHRA)
 print('')
 
-token =input ('Telegram bot :-- ')
+token ='7726831759:AAHkn90zVQy2ObNNGtCznQKVqJj3QjjhCzA'
 bot = telebot.TeleBot(token)
 
 print(f'      Start 🚀Bot           ')
