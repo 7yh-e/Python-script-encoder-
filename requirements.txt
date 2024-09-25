@@ -1,0 +1,4 @@
+pyfiglet
+telebot 
+python-cfonts
+requests
